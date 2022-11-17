@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**au2001/au2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps Enthusiast 🚀 & Cloud Native Engineer 🌥️ since circa 2012.
 
-Here are some ideas to get you started:
+### I'm currently working on 🔭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 🌳<br/>GitOps                            | 🚢<br/>Orchestration                      |
+|:----------------------------------------:|:------------------------------------------:|
+| [FluxCD][1] – [ArgoCD][2] – [Jenkins][3] | [Kubernetes][4] – [Docker][5] – [Nomad][6] |
+
+### I'm currently learning 🌱
+
+- Certified Ethical Hacker
+- AWS Certified DevOps Engineer - Professional
+- Professional Cloud DevOps Engineer
+
+### Some interesting stats 📈
+### How to reach me 📫
+
+[1]: https://github.com/fluxcd/flux2
+[2]: https://github.com/argoproj/argo-cd
+[3]: https://github.com/jenkinsci/jenkins
+[4]: https://github.com/kubernetes/kubernetes
+[5]: https://github.com/moby/moby
+[6]: https://github.com/hashicorp/nomad
+[7]: https://github.com/hashicorp/terraform
+[8]: https://github.com/hashicorp/vault
